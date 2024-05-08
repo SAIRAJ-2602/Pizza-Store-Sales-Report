@@ -1,6 +1,6 @@
 # Pizza-Store-Sales-Report
 
-🎉 I am thrilled to present an in-depth analysis 📊 of a pizza sales dataset which I performed by using tools which are Microsoft Power BI and SQL. This analysis aims to provide insights into the performance of the pizza business 🍕, with a particular focus on identifying opportunities for growth 📈 and areas that require improvement 🚀. In this comprehensive report, we delved into various key performance indicators (KPIs) 📈📊 and offered recommendations to enhance sales in both low-performing and high-performing segments.
+🎉 I am thrilled to present an in-depth analysis 📊 of a Pizza Sales of "The NAPLE's Pizza 🍕" Restaurant, which I performed by using tools which includes Microsoft Power BI and SQL (PostgreSQL). This analysis aims to provide insights into the performance of the pizza business 🍕, with a particular focus on identifying opportunities for growth 📈 and areas that require improvement 🚀. In this comprehensive report, we delved into various key performance indicators (KPIs) 📈📊 and offered recommendations to enhance sales in both low-performing and high-performing segments.
 
 ⭐Key Performance Indicators (KPIs):
 🔲Total Distinct Orders: During the analyzed period, the dataset recorded a total of 21,350 distinct orders. 📦
